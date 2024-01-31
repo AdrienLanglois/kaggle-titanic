@@ -1,1 +1,1 @@
-jupyter nbconvert --execute --to notebook ../notebooks/EDA.ipynb
+jupyter nbconvert --execute --to notebook ../notebooks/EDAv2.ipynb
