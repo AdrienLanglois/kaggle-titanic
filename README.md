@@ -1,4 +1,4 @@
-## Titanic - Machine Learning from Disaster
+## Titanic - Machine Learning from Disaster
 This is my solution to the kaggle competition "Titanic". This objective is to use Machine Learning to predict who will survive in the Titanic scenario. You can see more [here](https://www.kaggle.com/c/titanic)
 
 # Kaggle 
